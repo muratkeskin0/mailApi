@@ -1,4 +1,12 @@
-{
-  "userid": 5,
-  "campaignid": 5
-}
+[
+  {
+    "messageId": "msg-f:123456789",
+    "userId": "user1@example.com",
+    "campaignId": "campaign123"
+  },
+  {
+    "messageId": "msg-f:987654321",
+    "userId": "user2@example.com",
+    "campaignId": "campaign456"
+  }
+]
