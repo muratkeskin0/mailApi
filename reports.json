@@ -12,5 +12,10 @@
   {
     "userId": "user1@example.com",
     "campaignId": "campaign123"
+  },
+  {
+    "messageId": "msg-f:1811272067212249126",
+    "userId": "user1@example.com",
+    "campaignId": "campaign123"
   }
 ]
