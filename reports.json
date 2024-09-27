@@ -8,5 +8,9 @@
     "messageId": "msg-f:987654321",
     "userId": "user2@example.com",
     "campaignId": "campaign456"
+  },
+  {
+    "userId": "user1@example.com",
+    "campaignId": "campaign123"
   }
 ]
